@@ -7,7 +7,7 @@ import googlemaps
 radio = 2
 unit = 'km'
 
-geo_source = 11.220316, -74.198647
+geo_source = 11.230316, -74.198647
 
 
 def get_coords(address: str, API_KEY: str) -> tuple:
